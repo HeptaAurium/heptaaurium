@@ -184,7 +184,7 @@ I'm currently available for:
 | 🦊 GitLab *(Most Active)* | [gitlab.com/ngugikiarie_](https://gitlab.com/ngugikiarie_) |
 | 🐙 GitHub | [github.com/HeptaAurium](https://github.com/HeptaAurium) |
 | 💰 Upwork | [View Profile](https://www.upwork.com/freelancers/~010582afa1fb87e20b?mp_source=share) |
-| 🧠 Stack Overflow | [stackoverflow.com/users/YOUR_ID](https://stackoverflow.com/users/YOUR_ID) |
+| 🧠 Stack Overflow | [https://stackoverflow.com/users/10063876/ngugi-kiarie](https://stackoverflow.com/users/10063876/ngugi-kiarie) |
 | 📧 Email | [kiariedev@gmail.com](mailto:kiariedev@gmail.com) |
 
 ---
